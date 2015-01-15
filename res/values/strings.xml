@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FacebookDemo</string>
+    <string name="app_id">Your app_id</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_on_facebook">Share On Facebook</string>
+    <string name="get_user_info">Get User Information</string>
+    <string name="user_friend_list">Get Facebook Friend</string>
+    <string name="friends">Friends</string>
+    <string name="user_information">User Information</string>
+    <string name="userid_">UserId :</string>
+    <string name="user_name_">User Name :</string>
+    <string name="first_name_">First Name :</string>
+    <string name="last_name_">Last NAme :</string>
+    <string name="birthday_">Birthday :</string>
+    <string name="emailid_">EmailId :</string>
+    <string name="facebookdemo">FacebookDemo</string>
+
+</resources>
