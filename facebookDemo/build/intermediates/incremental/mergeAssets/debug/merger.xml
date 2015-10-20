@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\exploded-aar\FacebookDemo\facebookSDK\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\Learning\Android\Example\FacebookDemo\facebookDemo\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\Learning\Android\Example\FacebookDemo\facebookDemo\src\debug\assets"/></dataSet></merger>

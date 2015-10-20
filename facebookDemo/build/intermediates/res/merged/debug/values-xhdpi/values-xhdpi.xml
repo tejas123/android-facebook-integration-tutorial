@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Learning/Android/Example/FacebookDemo/facebookDemo/build/intermediates/exploded-aar/FacebookDemo/facebookSDK/unspecified/res/values-xhdpi/values-xhdpi.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_picker_divider_width">2px</dimen>
+</resources>

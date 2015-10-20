@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\exploded-aar\FacebookDemo\facebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-6dbe17c5d81e63b61d91330e680c276efaf871af.jar" />
+    </item>
+    <item
+        jar="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\exploded-aar\FacebookDemo\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23a8d9930190da53a22da4dcb85b49d553b77472">
+        <dex dex="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\pre-dexed\debug\classes-3505a2fa05bf9fc89711253c2eff6e67f3440113.jar" />
+    </item>
+    <item
+        jar="E:\Soft\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\pre-dexed\debug\support-v4-19.1.0-f73f936c25a33769e24debfa17a6cdce25e524ed.jar" />
+    </item>
+    <item
+        jar="E:\Learning\Android\Example\FacebookDemo\facebookDemo\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\Learning\Android\Example\FacebookDemo\facebookDemo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-a0199378429bbb77c38e62621ce468a11bcae994.jar" />
+    </item>
+
+</items>
